@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "confused-memory-challenge": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "confused-memory-challenge"
+    }
+  },
+  "defaultProject": "confused-memory-challenge",
+  "cli": {
+    "analytics": "76022b30-cbc7-4540-b494-b03fc8250ccb"
+  }
 }
